@@ -39,9 +39,9 @@ Optional But Recommended Components:
 
 1) Assemble the AVIP connector wire harness with the 4 U.FL terminated coaxial cables and the 5 pin 1.25mm picoblade cable using the image below. The shielding on the cables can be directly soldered to the ground pin for each signal line. An extra piece of wire should be added as extra strain relief to protect the picoblade wires and coaxial cables, and will offer some extra grounding for static discharges.
 
-The added piece of wire can be soldered directly to the shielding of the AVIP connector and to the extra plated through hole on the board to the right of J2, and then through the same sleeving and cable glands as the rest of the wire harness. Ensure this cable is the shortest wire in the harness for proper strain relief. Coloring the U.FL connectors with marker to denote signal they carry may be helpful.
+*The added piece of wire can be soldered directly to the shielding of the AVIP connector and to the extra plated through hole on the board to the right of J2, and then through the same sleeving and cable glands as the rest of the wire harness. Ensure this cable is the shortest wire in the harness for proper strain relief. Coloring the U.FL connectors with marker to denote signal they carry may be helpful.
 
-Make sure you put the AVIP connector boot and cable glad onto the wire harness before soldering the wires to the pins on the connector. Adding a small piece of heat shrink on each end of the sleeving will help the sleeving stay in place. Adding a zip tie on the adapter side of the cable gland will help with strain relief.
+*Make sure you put the AVIP connector boot and cable glad onto the wire harness before soldering the wires to the pins on the connector. Adding a small piece of heat shrink on each end of the sleeving will help the sleeving stay in place. Adding a zip tie on the adapter side of the cable gland will help with strain relief.
 
 ![AVIP Image](img/AVIP_connector_pinout.png?raw=true "AVIP Image")
 
