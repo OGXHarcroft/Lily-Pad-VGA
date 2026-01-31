@@ -9,7 +9,7 @@ Multiple BOM files are included and many links for components can be found at th
 
 ### PCB Ordering Details
 
-[Latest Gerbers](https://github.com/OGXHarcroft/Lily Pad VGA/releases/latest)
+[Latest Gerbers](https://github.com/OGXHarcroft/Lily-Pad-VGA/releases/latest)
 The included gerber files should work with most PCB board houses, but Eagle board files are included if you need to generate new gerbers for your specific board house.
 
 When ordering from JLC PCB the default options are ideal. Board thickness should be 1.6mm.
@@ -43,7 +43,7 @@ Optional But Recommended Components:
 
 2) Assemble the PCB with components from the various BOM files and links below. The S/PDIF transmitter (J4) is difficult to find outside of ebay, aliexpress, alibaba etc. Aside from the 3D prints, every component can be purchased from Aliexpress. BOM and CPL files for PCB assembly at JLC PCB for all surface mount components are included in this repo. Trimming the longest legs off the audio and S/PDIF connectors will aid in the best fit for the case. Several BOM files are included in this repo; please read the title of each one carefully for the components you require.
 
-3) Connect the 5 pin cable to J2, connect the Red, Green, Blue and SPDIF U.FL cables to their correspdonding connectors on the mainboard. Insert the retention clip in the holes on either side of the connectors with the slim side pointing up. Then melt the pegs that protrude through the back of the PCB to permanently affix the retention clip to the board at 180-200C. Alternatively a twist tie passed through the back of the board can help retain the signal wires.
+3) Connect the 5 pin cable to J2, connect the Red, Green, Blue, and SPDIF U.FL cables to their correspdonding connectors on the VGA adapter board. Insert the retention clip in the holes on either side of the connectors with the slim side pointing up. Melt the pegs that protrude through the back of the PCB to permanently affix the retention clip to the board at 180-200C. Alternatively a twist tie passed through the back of the board can help retain the signal wires.
 
 4) For case assembly, place the smooth end of one of the brass standoffs into each of the 4 holes on the inside of the top half of the case, then melt them into place at a safe temperature for the plastic your case was printed with. Generally 180-200C should be sufficient). After placing the adapter board into the bottom half of the case, make sure to slot the cable glad into the provided slot.
 
@@ -72,3 +72,8 @@ or https://www.aliexpress.com/item/1005005195913174.html
 - HoneySoakedSeagull for the frog art.
 - Derf for another great project name.
 - Team Cerbios for adding VGA support into their BIOS.
+
+
+### Attribution
+
+If you modify the board files please do not remove the HCI logo.
