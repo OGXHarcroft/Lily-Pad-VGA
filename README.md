@@ -56,7 +56,7 @@ or https://www.aliexpress.com/item/1005005195913174.html
 - GQ-1504 S/PDIF transmitter (transmitting): https://www.aliexpress.com/item/1005004654447952.html
 - J2 audio connector alternate: https://www.aliexpress.com/item/1005001528210520.html
 - M3 16mm screws alternate (6mm): https://www.aliexpress.com/item/1005007188294590.html
-- M3xL4xiD4.5mm brass threaded inserts: https://www.aliexpress.com/item/1005006071488810.htm (could not find on digikey)
+- M3xL4xOD4.5mm brass threaded inserts: https://www.aliexpress.com/item/1005006071488810.htm (could not find on digikey)
 - DSub15 alternate: https://www.aliexpress.com/item/1005003798059447.html
 - DSub15 jackscrew: (outside thread 5mm) https://www.aliexpress.com/item/4000371838126.html
 - U.FL terminated coaxial cables: https://www.aliexpress.com/item/1005009463616815.html
