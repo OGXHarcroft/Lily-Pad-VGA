@@ -50,24 +50,25 @@ Optional But Recommended Components:
 
 ### Links For Components
 
-Xbox AVIP connector: https://console5.com/store/microsoft-xbox-av-multi-out-plug-for-custom-rgb-cables-repair-og-original.html
+- Xbox AVIP connector:
+https://console5.com/store/microsoft-xbox-av-multi-out-plug-for-custom-rgb-cables-repair-og-original.html
 or https://www.aliexpress.com/item/1005005195913174.html
-GQ-1504 S/PDIF transmitter (transmitting): https://www.aliexpress.com/item/1005004654447952.html
-J2 audio connector alternate: https://www.aliexpress.com/item/1005001528210520.html
-M3 16mm screws alternate (6mm): https://www.aliexpress.com/item/1005007188294590.html
-M3xL4xiD4.5mm brass threaded inserts: https://www.aliexpress.com/item/1005006071488810.htm (could not find on digikey)
-DSub15 alternate: https://www.aliexpress.com/item/1005003798059447.html
-DSub15 jackscrew: (outside thread 5mm) https://www.aliexpress.com/item/4000371838126.html
-U.FL terminated coaxial cables: https://www.aliexpress.com/item/1005009463616815.html
-5 pin 1.25mm picoblade cable: https://www.aliexpress.com/item/1005007277110532.html
-Cable gland (choose XD-08-Black): https://www.aliexpress.com/item/1005005691860036.html 
-braided cable sleeving: https://www.aliexpress.com/item/1005007486025295.html
+- GQ-1504 S/PDIF transmitter (transmitting): https://www.aliexpress.com/item/1005004654447952.html
+- J2 audio connector alternate: https://www.aliexpress.com/item/1005001528210520.html
+- M3 16mm screws alternate (6mm): https://www.aliexpress.com/item/1005007188294590.html
+- M3xL4xiD4.5mm brass threaded inserts: https://www.aliexpress.com/item/1005006071488810.htm (could not find on digikey)
+- DSub15 alternate: https://www.aliexpress.com/item/1005003798059447.html
+- DSub15 jackscrew: (outside thread 5mm) https://www.aliexpress.com/item/4000371838126.html
+- U.FL terminated coaxial cables: https://www.aliexpress.com/item/1005009463616815.html
+- 5 pin 1.25mm picoblade cable: https://www.aliexpress.com/item/1005007277110532.html
+- Cable gland (choose XD-08-Black): https://www.aliexpress.com/item/1005005691860036.html 
+- braided cable sleeving: https://www.aliexpress.com/item/1005007486025295.html
 
 
 ### Thanks and Credit
 
-Kekule for helpful ideas.
-DiscoStarSlayer for helpful advice.
-HoneySoakedSeagull for the frog art.
-Derf for another great project name.
-Team Cerbios for adding VGA support into their BIOS.
+- Kekule for helpful ideas.
+- DiscoStarSlayer for helpful advice.
+- HoneySoakedSeagull for the frog art.
+- Derf for another great project name.
+- Team Cerbios for adding VGA support into their BIOS.
